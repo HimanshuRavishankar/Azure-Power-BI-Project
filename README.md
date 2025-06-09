@@ -2,7 +2,7 @@
 # 👕 Men's Apparel Analysis – Power BI Dashboard
 
 **🔗 Project Repository**  
-[GitHub Link][https://github.com/YourRepo/Mens-Apparel-InsightBI]
+[GitHub Link][(https://github.com/HimanshuRavishankar/Azure-Power-BI-Project.git)]
 
 ---
 
