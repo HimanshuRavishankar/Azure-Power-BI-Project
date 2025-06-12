@@ -5,7 +5,7 @@
 [GitHub Link][(https://github.com/HimanshuRavishankar/Azure-Power-BI-Project.git)]
 
 **🔗 Project Portfolio** 
-https://project.novypro.com/YvrZxq
+[(https://project.novypro.com/YvrZxq)]
 ---
 
 ## 🎯 Objective
